@@ -15,7 +15,7 @@ import logging
 import requests
 
 
-
+print("")
 
 def web_driver():
     options = webdriver.ChromeOptions()
